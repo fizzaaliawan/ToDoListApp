@@ -58,20 +58,4 @@ No.  Task                      Status     Deadline
 2    Buy groceries              Done       N/A
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome!
-Feel free to **fork** the repo, open issues, or submit pull requests.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Do you also want me to make a **Windows EXE version** of this To-Do app (so you can run it without Python)?
-```
