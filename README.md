@@ -7,11 +7,11 @@ It allows you to **add, view, delete, and mark tasks as done**, with data persis
 ---
 
 ## 🚀 Features
-- 📌 **Add Tasks** → Add new tasks with optional deadlines  
-- 📋 **Show Tasks** → View all tasks in a tabular format  
-- 🗑️ **Delete Tasks** → Remove tasks by selecting their number  
-- ✔ **Mark as Done** → Update the status of tasks to "Done"  
-- 💾 **Persistent Storage** → Tasks are saved in `tasks.txt`  
+- **Add Tasks** → Add new tasks with optional deadlines  
+- **Show Tasks** → View all tasks in a tabular format  
+- **Delete Tasks** → Remove tasks by selecting their number  
+- **Mark as Done** → Update the status of tasks to "Done"  
+- **Persistent Storage** → Tasks are saved in `tasks.txt`  
 
 
 ---
